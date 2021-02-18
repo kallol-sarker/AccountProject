@@ -1,0 +1,13 @@
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+C:\Users\Sarke\Documents\Visual Studio 2019\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
